@@ -1,0 +1,42 @@
+.header{
+    text-align: center;
+    background-color: red;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+.years{
+    margin-bottom: 2px;
+    text-decoration: underline;
+}
+.title{
+    margin-bottom: 5px;
+}
+.pics{
+    margin: auto;
+    width: 170px;
+}
+.img{
+    width: 150px;
+    height: 100px;
+
+}
+.about{
+    background-color: aqua;
+}
+.experience{
+    background-color: blue;
+    text-decoration: underline;
+}
+.current-job{
+   background-color: blueviolet; 
+}
+.train{
+    background-color:chartreuse ;
+}
+.soroka{
+    background-color: crimson;
+
+}
+.languages{
+    background-color: rgb(211, 0, 183);
+}
