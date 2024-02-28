@@ -1,0 +1,237 @@
+.back-color{
+    background-color:#013b94 ;
+}
+.header{
+    padding: 15px;
+    background-color: #013b94;
+    overflow: auto;
+    margin: auto;
+    width: 900px;
+}
+
+.header-logo{
+    font-family: 'Bubble Letters';
+    color: white;
+    display: inline-block;
+    
+}
+.header-buttons{
+    display: inline-block;
+    float: right;
+}
+.secondary-buttons{
+    display: inline-block;
+    float: left;
+}
+
+.header-buttons div {
+    display: inline-block;
+}
+
+.align-top{
+    vertical-align: top;
+}
+.align-top-left{
+    display: inline-block;
+    vertical-align: top;
+}
+.btn-header{
+    height: 40px;
+    width: 60px;
+    background-color: #013b94;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    border: 1px white
+
+}
+.btn-header:hover {
+    opacity: 0.6;
+    background-color: #0094e9;
+}
+.btn-second{
+    height: 40px;
+    width: 60px;
+    background-color: #013b94;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    border: 1px white
+}
+.btn-second:hover {
+    opacity: 0.6;
+    background-color: #0094e9;
+}
+
+.language-logo{
+    height: 20px;
+    width: 20px;
+    border-radius: 8px;
+}
+
+
+.accounts{
+    background-color: white;
+    color:#013b94 ;
+}
+.title-header{
+    font-family: 'Bubble Letters';
+    color: white;
+
+}
+.secondary-header{
+    margin: auto;
+    width: 900px;
+}
+.detials{
+    margin: auto;
+    width: 750px;
+}
+.detials div{
+    background-color: #ffb700;
+    display: inline-block;
+    padding: 8px;
+    border-radius: 8px;
+}
+.search-order input{
+    height: 30px;
+    border-radius: 8px;
+
+}
+.search-button{
+    background-color: #006ce4;
+    height: 35px;
+    border-radius: 8px;
+    color: white;
+}
+.main{
+    margin: auto;
+    width: 850px;
+}
+.offer-btn{
+    background-color:  #006ce4;
+    margin-top: 55px;
+    margin-left: 5px;
+    padding: 7px;
+    border-radius: 13px;
+    opacity: 0.8;
+    color: white;
+}
+.offer-btn:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}
+.offer{
+    background-image: url(offers\ img.jpeg);
+    height: 180px;
+    border-radius: 10px;
+}
+.offer-p{
+    margin-left: 7px;
+}
+.offer-titile{
+    color: white;
+}
+.offer-details{
+    color: white;
+}
+.proparty-type{
+    height: 175px;
+    width: 175px;
+    border-radius: 10px;
+}
+.img-proparty{
+    margin: auto;
+    width: 1000px;
+}
+.img-proparty div{
+    display: inline-block;
+    padding: 20px;
+}
+.explore div{
+    display: inline-block;
+    padding: 10px;
+
+}
+.explore{
+    margin: auto;
+    width: 1000px;
+}
+.explore-img{
+    height: 120px;
+    width: 120px;
+    border-radius: 10px;
+}
+.trending div{
+    display: inline-block;
+    padding: 10px;
+    margin: auto;
+    margin-left: 3px;
+    margin-bottom: 7px;
+}
+.trending-img-one{
+    background-image: url(https://cf.bstatic.com/xdata/images/city/600x600/971374.jpg?k=95b428839d92c523c81fc50dd7158a9073bbdf92df2a5166748b2d396976ae32&o=);
+    height: 230px;
+    width: 400px;
+    border-radius: 10px;
+    padding: 2px;
+}
+.trending-img-two{
+    background-image: url(https://cf.bstatic.com/xdata/images/city/600x600/977213.jpg?k=5ae24d0d471f6087e429086b6db1efd8ecc1d5933bb37bdfa7724df6b2741fc5&o=);
+    height: 230px;
+    width: 400px;
+    border-radius: 10px; 
+}
+.trending-img-three{
+    background-image: url(https://cf.bstatic.com/xdata/images/city/600x600/653172.jpg?k=7f27dcc9202d8b94c667e446798404cc05350041c6b9332829723bcce5bf759b&o=);
+    height: 230px;
+    width: 257px;
+    border-radius: 10px;
+    
+}
+.trending-img-forth{
+    background-image: url(https://cf.bstatic.com/xdata/images/city/600x600/977192.jpg?k=9b5deb1736f05b131436cd8ee666e23a766e74c39720fce87cec8677238fe207&o=);
+    height: 230px;
+    width: 257px;
+    border-radius: 10px;
+}
+.trending-img-five{
+    background-image: url(https://cf.bstatic.com/xdata/images/city/600x600/977262.jpg?k=2b852648c76ccaff8be05333057712eda873343dfaa79cd23e55534a1a55aecc&o=);
+    height: 230px;
+    width: 257px;
+    border-radius: 10px;
+}
+.trending-headers{
+    color: white;
+}
+.bottom{
+    background-color: #00224f;
+}
+.bottom-details{
+    margin: auto;
+    width: 800px;
+    text-align: center;
+    color: white;
+}
+.information div{
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.email{
+    height: 30px;
+    width: 300px;
+    border-radius: 6px;
+}
+.email-subscribe{
+    height: 36px;
+    width: 100px;
+    border-radius: 6px;
+    background-color: #006ce4;
+    color: white;
+    cursor: pointer;
+}
+.email-subscribe:hover{
+    opacity: 0.6;
+}
+
