@@ -1,0 +1,75 @@
+h2 {
+    background-color: green;
+    /* border: 3px solid purple; */
+    border-color: brown;
+    border-width: 4px;
+    border-style: solid;
+
+    color: rgb(199, 0, 0);
+}
+
+#orderPizzaHeader {
+    height: 150px;
+}
+
+h1.pizzaHeaderClass {
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.center {
+    background-color: blue;
+    margin: auto;
+    width: 660px;
+    border: 15px solid black;
+    padding: 12px;
+}
+
+.pizzaType {
+    background-color: greenyellow;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.pizzaTopings {
+    background-color: orangered;
+    margin-top: 10px;
+    margin-left: 121px;
+}
+
+.pizzaSize {
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 94px;
+}
+
+.submitush {
+    background-color: red;
+    margin-top: 10px;
+    margin-left: 121px
+}
+
+.pizzaHistoryTable img {
+    /* padding: 10px; */
+    background-color: orange
+}
+
+.pizzaImage {
+    width: 30%;
+    /* height: 500px; */
+}
+
+.content {
+    padding: 10px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    text-decoration: dotted;
+}
+
+/* body (selector) { (declaration)
+    background-color: pink;
+    (property)        (value)   
+} */
